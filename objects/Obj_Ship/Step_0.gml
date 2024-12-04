@@ -6,7 +6,9 @@ if (Akey = 1) {
 if (Dkey = 1) {
 	image_angle -= rs	
 }
-
+if (Wkey = 1) {
+	motion_add(image_angle,.05)
+}
 
 
 
