@@ -9,7 +9,7 @@ if (Dkey = 1) {
 if (Wkey = 1) {
 	motion_add(image_angle,.05)
 }
-
+move_wrap(true,true,0)
 
 
 
