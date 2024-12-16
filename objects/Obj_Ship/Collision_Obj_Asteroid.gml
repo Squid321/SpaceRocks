@@ -6,7 +6,7 @@ if (timeout <= 0) {
 		instance_create_layer(x,y,layer,Obj_Debris2)
 	}
 }
-
+lives -= 1
 
 
 

@@ -588,8 +588,8 @@
   "maintainGms1Font":false,
   "name":"Fnt_Global",
   "parent":{
-    "name":"Space Rocks",
-    "path":"Space Rocks.yyp",
+    "name":"Fonts",
+    "path":"folders/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[
