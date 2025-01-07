@@ -40,6 +40,7 @@
     {"id":{"name":"Obj_I","path":"objects/Obj_I/Obj_I.yy",},},
     {"id":{"name":"Obj_Ship","path":"objects/Obj_Ship/Obj_Ship.yy",},},
     {"id":{"name":"World","path":"objects/World/World.yy",},},
+    {"id":{"name":"World2","path":"objects/World2/World2.yy",},},
     {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -50,7 +51,9 @@
     {"id":{"name":"Room7","path":"rooms/Room7/Room7.yy",},},
     {"id":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
     {"id":{"name":"Room9","path":"rooms/Room9/Room9.yy",},},
+    {"id":{"name":"RoomAdvance","path":"rooms/RoomAdvance/RoomAdvance.yy",},},
     {"id":{"name":"RoomDeath","path":"rooms/RoomDeath/RoomDeath.yy",},},
+    {"id":{"name":"RoomDummy","path":"rooms/RoomDummy/RoomDummy.yy",},},
     {"id":{"name":"RoomFinal","path":"rooms/RoomFinal/RoomFinal.yy",},},
     {"id":{"name":"RoomWin","path":"rooms/RoomWin/RoomWin.yy",},},
     {"id":{"name":"Spr_Asteroid_Large","path":"sprites/Spr_Asteroid_Large/Spr_Asteroid_Large.yy",},},
@@ -65,6 +68,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
+    {"roomId":{"name":"RoomDummy","path":"rooms/RoomDummy/RoomDummy.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
@@ -77,6 +81,7 @@
     {"roomId":{"name":"RoomFinal","path":"rooms/RoomFinal/RoomFinal.yy",},},
     {"roomId":{"name":"RoomWin","path":"rooms/RoomWin/RoomWin.yy",},},
     {"roomId":{"name":"RoomDeath","path":"rooms/RoomDeath/RoomDeath.yy",},},
+    {"roomId":{"name":"RoomAdvance","path":"rooms/RoomAdvance/RoomAdvance.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[

@@ -7,13 +7,13 @@ rot = choose(-3,-2,-1,1,2,3)
 global.room += 0
 if (global.start > 1) {
 	if (sprite_index == Spr_Asteroid_Large) {
-		global.room += choose(16,18,20)
+		global.room += 20
 	}
 	else if (sprite_index == Spr_Asteroid_Medium) {
-		global.room += choose(3,4,5)
+		global.room += 5
 	}
 	else if (sprite_index == Spr_Asteroid_Small) {
-		global.room += choose(0,1,1)
+		global.room += 1
 	}
 }
 
