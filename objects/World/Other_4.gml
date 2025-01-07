@@ -4,7 +4,6 @@ var _rep = 0
 switch (room) {
 	case RoomDummy:
 		_rep = 0
-		//instance_destroy(Obj_Asteroid)
 		instance_create_layer(room_width *.75, room_height/2, layer, Obj_Asteroid)
 	break;
 	case Room1:

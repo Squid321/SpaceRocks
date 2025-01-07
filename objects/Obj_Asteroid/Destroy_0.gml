@@ -13,12 +13,15 @@
 //}
 if (sprite_index == Spr_Asteroid_Large) {
 	score += 10
+	audio_play_sound(Snd_BoomL,4,false)
 }
 else if (sprite_index == Spr_Asteroid_Medium) {
 	score += 3
+	audio_play_sound(Snd_BoomM,3,false)
 }
 else if (sprite_index == Spr_Asteroid_Small) {
 	score += 1
+	audio_play_sound(Snd_BoomS,2,false)
 }
 
 
