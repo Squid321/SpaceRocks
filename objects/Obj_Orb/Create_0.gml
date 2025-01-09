@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-score = 0
-lives = 3
-draw_set_font(Fnt_Global)
-global.start = 0
+speed = 2
+move_towards_point(Obj_Ship.x,Obj_Ship.y,2)

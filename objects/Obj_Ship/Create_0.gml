@@ -13,6 +13,6 @@ y = 500
 global.room = 0
 timeout = 5
 global.eyes = 0
-
+alarm[0] = 120
 
 

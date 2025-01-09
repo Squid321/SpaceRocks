@@ -8,6 +8,7 @@ global.room += 0
 if (global.start > 1) {
 	if (sprite_index == Spr_Asteroid_Large) {
 		global.room += 20
+		alarm[0] = choose(60,120,180)
 	}
 	else if (sprite_index == Spr_Asteroid_Medium) {
 		global.room += 5
@@ -16,4 +17,3 @@ if (global.start > 1) {
 		global.room += 1
 	}
 }
-

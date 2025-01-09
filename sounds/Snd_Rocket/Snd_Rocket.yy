@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Snd_Shoot",
+  "%Name":"Snd_Rocket",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.183923,
-  "name":"Snd_Shoot",
+  "duration":2.044694,
+  "name":"Snd_Rocket",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Snd_Shoot.wav",
+  "soundFile":"Snd_Rocket.wav",
   "type":0,
   "volume":1.0,
 }

@@ -14,3 +14,6 @@ if (score >= global.room and score > 0) {
 	score = 0
 }
 global.start -= .1
+if (lives == 0) {
+	room_goto(RoomDeath)
+}
