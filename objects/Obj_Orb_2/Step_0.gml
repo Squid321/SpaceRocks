@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-speed = 2
-move_towards_point(Obj_Ship.x,Obj_Ship.y,2)
+move_wrap(true,true,sprite_width/2)
+if (y < 0) {
+	instance_destroy()
+}

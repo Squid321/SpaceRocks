@@ -7,7 +7,6 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_735859FD_1_1_1_1_1_1_1_1","path":"rooms/RoomFinal/RoomFinal.yy",},
-    {"name":"inst_4BB015DB","path":"rooms/RoomFinal/RoomFinal.yy",},
     {"name":"inst_54E59D03","path":"rooms/RoomFinal/RoomFinal.yy",},
     {"name":"inst_F508E55","path":"rooms/RoomFinal/RoomFinal.yy",},
     {"name":"inst_3FC0F8C","path":"rooms/RoomFinal/RoomFinal.yy",},
@@ -63,7 +62,6 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_735859FD_1_1_1_1_1_1_1_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_735859FD_1_1_1_1_1_1_1_1","objectId":{"name":"Obj_Ship","path":"objects/Obj_Ship/Obj_Ship.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":416.0,},
-        {"$GMRInstance":"v1","%Name":"inst_4BB015DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4BB015DB","objectId":{"name":"Obj_Ship","path":"objects/Obj_Ship/Obj_Ship.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":544.0,},
         {"$GMRInstance":"v1","%Name":"inst_54E59D03","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54E59D03","objectId":{"name":"Obj_Asteroid","path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_F508E55","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F508E55","objectId":{"name":"Obj_Asteroid","path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_3FC0F8C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3FC0F8C","objectId":{"name":"Obj_Asteroid","path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":480.0,},

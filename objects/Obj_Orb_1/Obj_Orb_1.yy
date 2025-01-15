@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_I",
+  "%Name":"Obj_Orb_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Asteroid","path":"objects/Obj_Asteroid/Obj_Asteroid.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_MotherShip","path":"objects/Obj_MotherShip/Obj_MotherShip.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_I",
+  "name":"Obj_Orb_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -34,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_I",
-    "path":"sprites/Spr_I/Spr_I.yy",
+    "name":"Spr_Orb",
+    "path":"sprites/Spr_Orb/Spr_Orb.yy",
   },
   "spriteMaskId":null,
   "visible":true,
